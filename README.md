@@ -29,3 +29,5 @@ Google TextToSpeech API
 
 DB
 
+동작 영상
+https://youtu.be/xLSZw3RiN_E
